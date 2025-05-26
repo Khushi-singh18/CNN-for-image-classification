@@ -25,3 +25,7 @@ Model Training:
 Evaluation:
 *Test the model on unseen data and measure performance using accuracy and visualization (like accuracy graphs).
 
+*OUTPUT*
+
+
+
